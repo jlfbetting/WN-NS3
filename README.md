@@ -1,5 +1,5 @@
-# WN-NS3
-NS-3 assignment of the 'Wireless Communications' course, by J.L.F. Betting, student nr 4016513
+# WIRELESS NETWORKING NS3 ASSIGNMENT 2016
+NS-3 assignment of the 'Wireless Networking' course at TU Delft, by J.L.F. Betting, student nr 4016513
 
 The C++ files contain several variables that can be changed by adding arguments at execution and compilation. Execute the files with thae --printHelp argument to obtain more information about this.
 The .sh script should be placed directly in the ns-3.24 directory, the .cc files go into the scratch folder.
