@@ -1,4 +1,4 @@
-# WIRELESS NETWORKING NS3 ASSIGNMENT 2016
+# WIRELESS NETWORKING - NS3 ASSIGNMENT
 NS-3 assignment of the 'Wireless Networking' course at TU Delft, by J.L.F. Betting, student nr 4016513
 
 The C++ files contain several variables that can be changed by adding arguments at execution and compilation. Execute the files with thae --printHelp argument to obtain more information about this.
