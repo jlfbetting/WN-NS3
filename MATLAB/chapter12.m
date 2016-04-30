@@ -11,7 +11,6 @@ maxDistance = 100; % change according to parameters of input file.
 step = 0.5;
 simDataText = 'Path loss in het Hybrid Buildings Propagation Loss Model, situation 2';
 
-maxDistance = maxDistance;
 delimiter = ' ';
 A = importdata(filename,delimiter,0);
 A = A([1:2*(maxDistance/step)+1],[1:2*(maxDistance/step)+1]);
