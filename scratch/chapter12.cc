@@ -12,6 +12,8 @@
  * You should have received a copy of the GNU General Public License
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+ *
+ * C++ code used in chapter 1 and 2 of the NS3 Wireless Networking report, J.L.F. Betting, student nr. 4016513
  */
 
 #include "ns3/core-module.h"
